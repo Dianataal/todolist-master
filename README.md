@@ -38,7 +38,7 @@ Running the to-do list app
 * If your browser didn't open, go to Google Chrome, Edge or any other browser and write 'http://localhost:3000/' into the bar
 
 
-Running tests with Cypress
+OLD VER(check next part) Running tests with Cypress
 
 * Keep the app running on http://localhost:3000/ (write 'npm start' in your IDE's terminal if it closed)
 * Write in your Computer's Terminal 'npx cypress open'. A window will soon open.
